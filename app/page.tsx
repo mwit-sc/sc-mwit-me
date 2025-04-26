@@ -109,7 +109,7 @@ export default function Home() {
           <LinkCard
             href="/documents"
             title="Documents"
-            description="Important forms and resources"
+            description="Important forms and resources สำคัญสำคัญ"
             icon={<FileText />}
             delay={0.8}
           />
