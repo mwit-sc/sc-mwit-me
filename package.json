@@ -60,7 +60,7 @@
     "zod": "^3.24.1",
     "@emotion/is-prop-valid": "latest",
     "framer-motion": "latest",
-    "tailwindcss-css": "latest"
+    "tailwindcss-css": "^3.4.1"
   },
   "devDependencies": {
     "@types/node": "^22",
